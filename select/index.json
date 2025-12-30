@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Dried Flower",
+  "base_artist": "Yuuri",
+  "createdAt": "2025-12-30T08:19:35.939919Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "dried flower",
+      "artist": "wave to earth",
+      "has_synced": true,
+      "path": "select/01_dried_flower_wave_to_earth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "dried flower (Original Mix)",
+      "artist": "wave to earth",
+      "has_synced": true,
+      "path": "select/02_dried_flower_(Original_Mix)_wave_to_earth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "dried flower",
+      "artist": "wave to earth",
+      "has_synced": true,
+      "path": "select/03_dried_flower_wave_to_earth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dried Flower",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/04_Dried_Flower_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "dried flower",
+      "artist": "wave to earth",
+      "has_synced": true,
+      "path": "select/05_dried_flower_wave_to_earth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dried Flower",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/06_Dried_Flower_優里.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dried Flower",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/07_Dried_Flower_優里.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dried Flower",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/08_Dried_Flower_imase.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wave to Earth - dried flower [Visualizer]",
+      "artist": "wave to earth",
+      "has_synced": true,
+      "path": "select/09_Wave_to_Earth_-_dried_flower_[Visualizer]_wave_to_earth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dried Sea",
+      "artist": "Yann Tiersen & Shannon Wright",
+      "has_synced": true,
+      "path": "select/10_Dried_Sea_Yann_Tiersen_&_Shannon_Wright.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dried Up, Tied And Dead To The World",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/11_Dried_Up,_Tied_And_Dead_To_The_World_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dried Up, Tied And Dead To The World",
+      "artist": "Marilyn Manson",
+      "has_synced": false,
+      "path": "select/12_Dried_Up,_Tied_And_Dead_To_The_World_Marilyn_Manson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dried-Out Cities",
+      "artist": "Fallulah",
+      "has_synced": true,
+      "path": "select/13_Dried-Out_Cities_Fallulah.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dried Up, Tied And Dead To The World - Live Utica, NY",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/14_Dried_Up,_Tied_And_Dead_To_The_World_-_Live_Utica,_NY_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dried Up, Tied and Dead to the World (Live)",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/15_Dried_Up,_Tied_and_Dead_to_the_World_(Live)_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Black Dried Up Heart (Bonus Track)",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/16_Black_Dried_Up_Heart_(Bonus_Track)_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cut & Dried",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/17_Cut_&_Dried_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dried Roses",
+      "artist": "Big Thief",
+      "has_synced": true,
+      "path": "select/18_Dried_Roses_Big_Thief.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dried Up Youthful Fame",
+      "artist": "OLDCODEX",
+      "has_synced": false,
+      "path": "select/19_Dried_Up_Youthful_Fame_OLDCODEX.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Freeze-Dried (F) Lies",
+      "artist": "Local H",
+      "has_synced": false,
+      "path": "select/20_Freeze-Dried_(F)_Lies_Local_H.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Freeze‐Dried (F)lies",
+      "artist": "Local H",
+      "has_synced": true,
+      "path": "select/21_Freeze‐Dried_(F)lies_Local_H.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sun Bleached & Dried",
+      "artist": "G-Eazy",
+      "has_synced": true,
+      "path": "select/22_Sun_Bleached_&_Dried_G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dried up, tied and dead to the",
+      "artist": "MARILYN MANSON",
+      "has_synced": true,
+      "path": "select/23_Dried_up,_tied_and_dead_to_the_MARILYN_MANSON.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Sun Bleached & Dried",
+      "artist": "G‐Eazy",
+      "has_synced": true,
+      "path": "select/24_Sun_Bleached_&_Dried_G‐Eazy.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Cut and Dried",
+      "artist": "D.O.A.",
+      "has_synced": true,
+      "path": "select/25_Cut_and_Dried_D.O.A..lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dried Piss",
+      "artist": "No Trigger",
+      "has_synced": true,
+      "path": "select/26_Dried_Piss_No_Trigger.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dried Up, Tied And Dead To The World (Live Utica, NY)",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/27_Dried_Up,_Tied_And_Dead_To_The_World_(Live_Utica,_NY)_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Black Dried Up Heart",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/28_Black_Dried_Up_Heart_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dried Flowers(English ver.)",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_Dried_Flowers(English_ver.)_優里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dried Flowers(Chinese ver.)",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_02_Dried_Flowers(Chinese_ver.)_優里.txt"
+    }
+  ]
+}
